@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZainFazal"
+title                    : "Zain Fazal"
 title_separator          : "-"
 name                     : &name "Zain Fazal"
 description              : &description "IT assistant at ODIME, pursuing a Bachelor's in Computer Science at George Mason University."
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
-  avatar           : "Me.png"
+  name             : "Zain Fazal"
+  avatar           : "profile.png"
   bio              : "IT assistant at <a style="color: black;" href="http://odime.gmu.edu">ODIME</a>, pursuing a Bachelor's in Computer Science at <a style="color: black;" href="http://cs.gmu.edu">George Mason University.</a>"
   location         : "Chantilly, Virginia"
   employer         :
