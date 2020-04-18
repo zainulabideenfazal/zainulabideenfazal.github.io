@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Zain Fazal"
+  avatar           : "Me.png"
+  bio              : "IT assistant at <a style="color: black;" href="http://odime.gmu.edu">ODIME</a>, pursuing a Bachelor's in Computer Science at <a style="color: black;" href="http://cs.gmu.edu">George Mason University.</a>"
+  location         : "Chantilly, Virginia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
